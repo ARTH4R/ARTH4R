@@ -1,4 +1,4 @@
-# [ARTH4R]
+# ARTH4R
 Junior Programmer 
 
 👋 Hello there! I'm ARTH4R Welcome to my GitHub profile!
